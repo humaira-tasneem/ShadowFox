@@ -14,7 +14,7 @@ A personal portfolio website showcasing my skills, projects, experience, and con
 
 ## 🔗 Live Demo
 
-[https://humaira-tasneem.github.io](https://humaira-tasneem.github.io)
+https://humaira-portfoio.netlify.app/
 
 ---
 
